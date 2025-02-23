@@ -22,13 +22,13 @@ Stress-Strain Curve:
 
  3. The Young’s Modulus was calculated as 55856 MPa with a percentage error of 19.05% compared to the theoretical value of 69000 MPa.
 
-1. Error Analysis:
+4. Error Analysis:
 
 - Combined Uncertainty: Calculated for gage length, width, and thickness using standard error and system uncertainty.
 
 - Propagation of Error: Applied to cross-sectional area calculations.
 
-2.  Material Behavior:
+5.  Material Behavior:
 
 - The material exhibited brittle behavior, breaking suddenly with minimal plastic deformation.
 
